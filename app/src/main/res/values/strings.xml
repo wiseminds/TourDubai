@@ -1,0 +1,740 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="restaurant_name">Name</string>
+    <string name="restaurant_rating">Rating</string>
+    <string name="restaurant_details">about restaurant</string>
+    <string name="toolbar">Tour Dubai</string>
+    <string name="al_maeda">Al-Maeda</string>
+    <string name="rating">"Rating"</string>
+    <string name="about_us">" About us"</string>
+    <string name="facilities">"Facilities"</string>
+    <string name="photo_credit">https://www.planetware.com/tourist­attractions­/dubai­uae­dub­dubai.htm</string>
+
+    <!--string for ratings-->
+    <string name="rating_1">#1</string>
+    <string name="rating_2">#2</string>
+    <string name="rating_3">#3</string>
+    <string name="rating_4">#4</string>
+    <string name="rating_5">#5</string>
+    <string name="rating_6">#6</string>
+    <string name="rating_7">#7</string>
+    <string name="rating_8">#8</string>
+    <string name="rating_9">#9</string>
+    <string name="rating_10">#10</string>
+    <string name="rating_11">#11</string>
+    <string name="rating_12">#12</string>
+    <string name="rating_13">#13</string>
+    <string name="rating_14">#14</string>
+    <string name="rating_15">#15</string>
+    <string name="rating_16">#16</string>
+    <string name="rating_17">#17</string>
+    <string name="rating_18">#18</string>
+    <string name="rating_19">#19</string>
+    <string name="rating_20">#20</string>
+    <string name="rating_21">#21</string>
+    <string name="rating_22">#22</string>
+    <string name="rating_23">#23</string>
+    <string name="rating_24">#24</string>
+    <string name="rating_25">#25</string>
+    <string name="rating_26">#26</string>
+    <string name="rating_27">#27</string>
+    <string name="rating_28">#28</string>
+    <string name="rating_29">#29</string>
+    <string name="rating_30">#30</string>
+    <string name="rating_31">#31</string>
+    <string name="rating_32">#32</string>
+    <string name="rating_33">#33</string>
+    <string name="rating_34">#34</string>
+    <string name="rating_35">#35</string>
+    <string name="rating_36">#36</string>
+    <string name="rating_37">#37</string>
+    <string name="rating_38">#38</string>
+
+
+
+
+
+    <!--Details about Hotels-->
+    <string name="the_palm_dubai">The Palm Dubai</string>
+    <string name="the_palm_dubai_details">A perfect hotel,
+        in a perfect location!\nPerfections AAA+++.</string>
+    <string name="the_palm_dubai_facilities">Palm Jumeirah-Hotels
+        with pools-Hotels with parking</string>
+
+    <string name="raffles_dubai">Raffles Dubai</string>
+    <string name="raffles_dubai_details"> The world\’s best hotel with the best team
+          of people working there.
+    \nClean, comfortable,polite staff.\nIt was an unbelievably extraordinary pampering experience</string>
+    <string name="raffles_dubai_facilities"> Bur Dubai\nHotels with pools\nHotels with parking</string>
+
+    <string name="grosvenor_house_hotel_and_apartments">Grosvenor House Hotel and Apartments</string>
+    <string name="grosvenor_house_hotel_and_apartments_details"> Absolutely unreal experience from start to finish.\nWow-Fantastic Staff.</string>
+    <string name="grosvenor_house_hotel_and_apartments_facilities"> Dubai Marina\nHotels with pools\nHotels with parking</string>
+
+    <string name="bulgari_resort"> Bulgari Resort, Dubai</string>
+    <string name="bulgari_resort_details">Couple retreat, couple paradise\nAmazing piece of land</string>
+    <string name="bulgari_resort_facilities">Jumeirah\nHotels with pools\nFive­star hotels</string>
+
+    <string name="jumeirah_emirates_towers"> Jumeirah
+        Emirates Towers</string>
+    <string name="jumeirah_emirates_towers_details">Amazing staff , amazing facilities ...\nDubai great city\nEverything was first class.</string>
+    <string name="jumeirah_emirates_towers_facilities">Hotel with pools\nFive­star hotels\nHotels with parking</string>
+
+    <string name="park_hyatt_dubai">Park Hyatt Dubai</string>
+    <string name="park_hyatt_dubai_details">The best hotel in the UAE.\nGreat location.\nEverything is excellent</string>
+    <string name="park_hyatt_dubai_facilities">Hotel with pools\nFive­star hotels\nHotels with parking</string>
+
+    <string name="four_seasons_resort_dubai"> Four Seasons Resort Dubai at Jumeirah Beach</string>
+    <string name="four_seasons_resort_dubai_details">Great hotel (as is expected from this brand) on
+        Jumeirah beach surrounded by great restaurants\nFour seasons exceptional”</string>
+    <string name="four_seasons_resort_dubai_facilities">Hotels with pools\nFivestar hotels</string>
+
+    <string name="jumeirah_al_qasr"> Jumeirah Al Qasr ­ Madinat Jumeirah</string>
+    <string name="jumeirah_al_qasr_details">Good maintenance and clean just stunning hotel\nGreat location, great food,
+        friendly staff, awesome facility. Check it out. Highly recommended.\nFantastic hotel in an amazing location with nearly all that...</string>
+    <string name="jumeirah_al_qasr_facilities">Hotels with pools\nHotels with parking</string>
+
+    <string name="renaissance_downtown_hotel">Renaissance Downtown Hotel, Dubai</string>
+    <string name="renaissance_downtown_hotel_details">Great Stay\nFriendly and welcoming staff, near by convenient store that...\nGreat place but bit too dark/modern</string>
+    <string name="renaissance_downtown_hotel_facilities">Hotel with pools\nFive­star hotels\nHotels with parking</string>
+
+    <string name="jumeirah_dar_al_masyaf">Jumeirah Dar Al Masyaf ­ Madinat Jumeirah</string>
+    <string name="jumeirah_dar_al_masyaf_details">Can\'t wait to book again!\nluxury\nA very relaxing weekend</string>
+    <string name="jumeirah_dar_al_masyaf_facilities"> Five­star hotels\nHotels with parking</string>
+
+    <string name="burj_al_arab_jumeirah">Burj Al Arab Jumeirah</string>
+    <string name="burj_al_arab_jumeirah_details"> A dream.\nMost amazing room and service I have ever experienced\nLovely people, lovely location and nice rooms.</string>
+    <string name="burj_al_arab_jumeirah_facilities">Hotel with pools\nFive­star hotels\nHotels with parking</string>
+
+    <string name="al_bandar_rotana">Al Bandar Rotana – Dubai Creek</string>
+    <string name="al_bandar_rotana_details">Wonderful stay for the weekend\nThe breakfast was amazing, I especially loved the bread...\nRecommend to all my co­workers</string>
+    <string name="al_bandar_rotana_facilities">Hotel with pools\nFive­star hotels\nHotels with parking</string>
+
+    <string name="address_dubai_marina">Address Dubai Marina</string>
+    <string name="address_dubai_marina_details">Everything was amazing, staff went above and beyond.\nPure luxury\nGood</string>
+    <string name="address_dubai_marina_facilities">Hotels with pools\nHotels with parking</string>
+
+    <string name="zabeel_house_mini">Zabeel House MINI Al Seef by Jumeirah</string>
+    <string name="zabeel_house_mini_details">Ligh\nLittle Gem in Old Dubai\nAwesome</string>
+    <string name="zabeel_house_mini_facilities">Hotels with pools\nHotels with parking</string>
+
+    <string name="jumeirah_mina_asalam">Jumeirah Mina A\'Salam ­ Madinat Jumeirah</string>
+    <string name="jumeirah_mina_asalam_details">I will go back to jbh as soon as its open\n\nBreakfast ­ although fantastic ­ very expensive.\nWonderful exprience.</string>
+    <string name="jumeirah_mina_asalam_facilities">Hotels with pools\nHotels with parking</string>
+
+    <string name="armani_hotel_dubai">Armani Hotel Dubai</string>
+    <string name="armani_hotel_dubai_details">Extremely luxury and perfect place, definitely recommended,...\nTruly memorable stay\nNew and modern stable.</string>
+    <string name="armani_hotel_dubai_facilities">Hotels with pools\nHotels with parking</string>
+
+    <string name="rove_dubai_marina">Rove Dubai Marina</string>
+    <string name="rove_dubai_marina_details">Awesome!\nvery relaxing.....just the room space\nKeep up the good work.</string>
+    <string name="rove_dubai_marina_facilities">Hotels with pools\nHotels with parking</string>
+
+    <string name="waldorf_astoria_dubai_palm_jumeirah">Waldorf Astoria Dubai Palm Jumeirah</string>
+    <string name="waldorf_astoria_dubai_palm_jumeirah_details">Quiet and relaxing!\nMy Favorite hotel in Dubai\nEVERYTHING!</string>
+    <string name="waldorf_astoria_dubai_palm_jumeirah_facilities">Hotels with pools\nFive Star Hotel </string>
+
+
+    <string name="rove_city_centre">Rove City Centre</string>
+    <string name="rove_city_centre_details">Good Location\nGreat Dubai location\nVery nice atmosphere.</string>
+    <string name="rove_city_centre_facilities">Hotels with pools\nHotels with parking</string>
+
+    <string name="rove_healthcare_city">Rove Healthcare City</string>
+    <string name="rove_healthcare_city_details">Room was clean and attractive\nmy first experience with the rove hotel group, if
+    you want...\nMy wife and I will definitely be back coz we\'re are already Roved!!!!!!!</string>
+    <string name="rove_healthcare_city_facilities">Hotels with pools\nHotels with parking</string>
+
+    <string name="the_oberoi_dubai">The Oberoi Dubai</string>
+    <string name="the_oberoi_dubai_details">The restaurant food was great.\nExcellent experience\nWe liked alot about The Oberoi as the hospitality of the...</string>
+    <string name="the_oberoi_dubai_facilities">Hotels with pools\nHotels with parking\nFive Star Hotel</string>
+
+    <string name="taj_dubai">Taj Dubai</string>
+    <string name="taj_dubai_details">Staff was excellent.\nTaj perfection\nThe staff were absolutely fantastic, and went the extra mile...</string>
+    <string name="taj_dubai_facilities">Hotels with pools\nFive Star Hotel\nHotels with parking</string>
+
+    <string name="aloft_city_centre_deira">Aloft City Centre Deira, Dubai</string>
+    <string name="aloft_city_centre_deira_details">Overall except for the first night issues we had had a very pleasant stay.\nGood
+    for Biz Trip or Travel. Not a busy crowded locality. Near to Airport. Nice view of Dubai Creek\nBreakfast was too crowded</string>
+    <string name="aloft_city_centre_deira_facilities">Hotels with pools\nFour Star Hotel\nHotels with parking</string>
+
+    <string name="rove_downtown"> Rove Downtown</string>
+    <string name="rove_downtown_details">purely budget hotel\nAmazing.\nstay of 4 nights was pleasant, supermarket on ground floor was very good, breakfast food unpleasnt</string>
+    <string name="rove_downtown_facilities">Hotels with pools\nHotels with parking</string>
+
+    <string name="rove_trade_centre">Rove Trade Centre</string>
+    <string name="rove_trade_centre_details">Friendly Staff.\nReally great stay\nThe rooms and it\'s cleanliness</string>
+    <string name="rove_trade_centre_facilities">Hotels with pools\nHotels with parking</string>
+
+    <string name="palazzo_versace_dubai">Palazzo Versace Dubai</string>
+    <string name="palazzo_versace_dubai_details">So beautiful and nice hotel design, so comforable , good...\nLuxury at its finest. Amazzinggggggg...period!!!\nSuspicious stay</string>
+    <string name="palazzo_versace_dubai_facilities">Hotels with pools\nFive Star \nHotels with parking</string>
+
+    <string name="residence_spa_dubai">Residence \&amp; Spa, Dubai</string>
+    <string name="residence_spa_dubai_details">we will definitely stay there again\nService in this hotel could be 7 ******* as wel.\nHighly recommended for a peaceful high quality Dubai stay.</string>
+    <string name="residence_spa_dubai_facilities">Hotels with pools\nHotels with parking</string>
+
+    <string name="park_regis_boutique_hotel">Park Regis Boutique Hotel</string>
+    <string name="park_regis_boutique_hotel_details">The staff made my stay really comfortable!\nCute little place in busy Jumeira\nPerfect stay, would highly recommend</string>
+    <string name="park_regis_boutique_hotel_facilities"> </string>
+
+    <string name="roda_links_al_nasr">Roda Links Al Nasr</string>
+    <string name="roda_links_al_nasr_details">Literally the same breakfast everyday!\nthe hotel doesn\'t serve alcohol and they didn\'t...\nDisappointed with the ultra all inclusive option. Complete waste of money</string>
+    <string name="roda_links_al_nasr_facilities">Hotels with pools\nHotels with parking</string>
+
+
+    <string name="le_royal_meridien_beach_resort_spa">Le Royal Meridien Beach Resort \&amp; Spa Dubai</string>
+    <string name="le_royal_meridien_beach_resort_spa_details">Great location, fantastic views and comfort.\nIt was really great, the staff was very welcoming specially...\nWould recommend Le Royal Meriden</string>
+    <string name="le_royal_meridien_beach_resort_spa_facilities">Hotels with pools\nHotels with parking</string>
+
+
+    //Eateries
+    <string name="al_maeda_e">Al­Maeda</string>
+    <string name="al_maeda_edetails">Fantastic Service\nExcellent Dinner</string>
+    <string name="al_maeda_edish">Lebanese, Mediterranean, Middle Eastern</string>
+
+    <string name="the_gallery">The Gallery</string>
+    <string name="the_gallery_details">Miricho</string>
+    <string name="the_gallery_dish">Bar, Asian, Vegetarian</string>
+
+    <string name="fish_hut_seafood_restaurant">Fish Hut Seafood Restaurant</string>
+    <string name="fish_hut_seafood_restaurant_details">Seafood, Mediterranean, Vegetables</string>
+    <string name="fish_hut_seafood_restaurant_dish">Very good experience!\nHAPPY AND SATISFIED</string>
+
+    <string name="azure_beach">Azure Beach</string>
+    <string name="azure_beach_details">Bar, Mediterranean, Sushi, European</string>
+    <string name="azure_beach_dish">Best beach club\n#1 beach club!!!</string>
+
+    <string name="cara">Cara</string>
+    <string name="cara_details">Japanese, Asian, Vegetarian</string>
+    <string name="cara_dish">Consistently great experience</string>
+
+    <string name="little_miss_india">Little Miss India</string>
+    <string name="little_miss_india_details">Asian, Vegetarian </string>
+    <string name="little_miss_india_dish">Simply the Best food\NBest Indian Restaurants in Dubai</string>
+
+    <string name="al_dawaar">Al Dawaar</string>
+    <string name="al_dawaar_details"> Mediterranean, Sushi, Middl…</string>
+    <string name="al_dawaar_dish">Great Dinner­Better Views Of Dubai\nBirthday Dinner</string>
+
+    <string name="amaseena">Amaseena </string>
+    <string name="amaseena_details">Lebanese, Barbecue, Middle…</string>
+    <string name="amaseena_dish">Very very good\nDinner for a birthday</string>
+
+    <string name="al_sarab_rooftop_lounge">Al Sarab Rooftop Lounge</string>
+    <string name="al_sarab_rooftop_lounge_details">Lebanese, Seafood, Med…</string>
+    <string name="al_sarab_rooftop_lounge_dish">Amazing Dinner\nAl sarab ­ bab al shams Dubai</string>
+
+
+    <string name="barefoot_lounge">Barefoot Lounge</string>
+    <string name="barefoot_lounge_details">Bar, Seafood, Mediterran… ,</string>
+    <string name="barefoot_lounge_dish">Amazing</string>
+
+    <string name="al_grissino"> Al Grissino</string>
+    <string name="al_grissino_details">Seafood, Italian, Mediterrian</string>
+    <string name="al_grissino_dish">Underrated gem\nFriday Brunch</string>
+
+    <string name="the_kitchen">The Kitchen</string>
+    <string name="the_kitchen_details">Asian, Vegetarian Friendly, Vegan Options</string>
+    <string name="the_kitchen_dish"> Good restaurant\nBreakfast</string>
+
+    <string name="le_patio">Le Patio</string>
+    <string name="le_patio_details">Bar, Middle Eastern, Arabic, Vegetarian Friendly</string>
+    <string name="le_patio_dish">Amazing service and food.\nBest Service ever</string>
+
+    <string name="miyako">Miyako</string>
+    <string name="miyako_details">Japanese, Sushi, Asian, Vegetarian</string>
+    <string name="miyako_dish">Great food and ambience\nyes, I got what I expected</string>
+
+    <string name="quattro_passi">Quattro Passi</string>
+    <string name="quattro_passi_details">Italian, Seafood, Vegetarian</string>
+    <string name="quattro_passi_dish">It keeps getting better\nEclectic Mouth watering Seafood</string>
+
+    <string name="olea">Olea</string>
+    <string name="olea_details">Lebanese, Turkish, Middl…</string>
+    <string name="olea_dish">Best restaurant, Amazing experience and se...\nThe best restaurant in Dubai!!!</string>
+
+    <string name="somersets"> Somersets </string>
+    <string name="somersets_details">Bar, European, British, Pub, Vegetarian Friendly</string>
+    <string name="somersets_dish">english pub\nHappy Hour and Service</string>
+
+    <string name="carpenters_sports_bar">Carpenter\'s Sports Bar</string>
+    <string name="carpenters_sports_bar_details">Bar, European, Pub, Veg…</string>
+    <string name="carpenters_sports_bar_dish">International operations manager\nVery good</string>
+
+    <string name="cuisinero_uno">Cuisinero Uno</string>
+    <string name="cuisinero_uno_details">Mediterranean, European, Spanish</string>
+    <string name="cuisinero_uno_dish">Nice tapas place\nReally exciting food</string>
+
+    <string name="seafood_market">Seafood Market</string>
+    <string name="seafood_market_details">Seafood, Asian, Vegetarian …</string>
+    <string name="seafood_market_dish">Awesome seafood place\nGood Food</string>
+
+
+    <string name="soul_restaurant_bar">Soul Restaurant &amp; Bar</string>
+    <string name="soul_restaurant_bar_details">American, Steakhouse, Bar, European</string>
+    <string name="soul_restaurant_bar_dish">Great experience\nNurse</string>
+
+    <string name="wavebreaker">Wavebreaker</string>
+    <string name="wavebreaker_details">Mexican, Polish, Mediterr…</string>
+    <string name="wavebreaker_dish">Amazing rochelle\nHighlight excellent attention</string>
+
+    <string name="armani_amal">Armani/Amal</string>
+    <string name="armani_amal_details"></string>
+    <string name="armani_amal_dish"></string>
+
+    <string name="trader_vics_hilton_dubai">Trader Vic\'s Hilton Duba…</string>
+    <string name="trader_vics_hilton_dubai_details">Bar, Polynesian, Hawaiian, Vegetarian Friendly</string>
+    <string name="trader_vics_hilton_dubai_dish"> Traders\nTGIF</string>
+
+    <string name="v_lounge">V Lounge</string>
+    <string name="v_lounge_details">Bar, Vegetarian Friendly, …</string>
+    <string name="v_lounge_dish">Another nice bar with amazing view\nChill nice place</string>
+
+    <string name="solo_dubai">Solo Dubai</string>
+    <string name="solo_dubai_details">Italian, Pizza, Mediterran… ,</string>
+    <string name="solo_dubai_dish">excellent restaurant with attentive staff\nWow!Pleasent Experience.</string>
+
+
+    <string name="armani_ristorante">Armani/Ristorante</string>
+    <string name="armani_ristorante_details">Italian, Mediterranean, Euro…</string>
+    <string name="armani_ristorante_dish">
+    Great food but disappointing smell in rest...\nAmazing dining experience
+   </string>
+
+    <string name="ostro">Ostro</string>
+    <string name="ostro_details"> Indian, Asian, Vegetarian Fri…</string>
+    <string name="ostro_dish">Worth every cent for the presentation, tas...\nGood food but disappointed with the reserv...\nTravelers\' Choice™ 2017 Winner</string>
+
+    <string name="the_talk_restaurant">The Talk Restaurant</string>
+    <string name="the_talk_restaurant_details">European, Asian, Internat…</string>
+    <string name="the_talk_restaurant_dish">Deniers\nBuffet</string>
+
+
+    <string name="celebrities">Celebrities</string>
+    <string name="celebrities_details">French, European, Internatio… ,</string>
+    <string name="celebrities_dish">Wow wow wow\nGood Dinner</string>
+
+    <string name="yalumba"> Yalumba</string>
+    <string name="yalumba_details">Seafood, Fusion, Internat…</string>
+    <string name="yalumba_dish">Our Sweetest Visit\nAs good as always</string>
+
+
+
+
+
+
+
+    //Tourist sites
+    <string name="burj_khalifa">Burj Khalifa</string>
+    <string name="burj_khalifa_details">Dubai\'s landmark building is the Burj Khalifa,
+        which at 829.8 meters is the tallest building in the world and the most famous
+        of the city\'s points of interest. For most visitors, a trip to the observation deck on the
+        124th floor here is a must­do while in the city. The views across the city
+        skyline from this bird\'s­eye perspective are simply staggering. The slick
+         observation deck experience includes a multimedia presentation on both
+        Dubai and the building of the Burj Khalifa (completed in 2010) before a
+        high­speed elevator whizzes you up to the observation deck for those
+        360­degree views out across the skyscrapers to the desert on one side
+        and the ocean on the other. Nighttime visits are particularly popular with
+        photographers due to Dubai\'s famous city­lights panoramas. Buy your
+        Burj Khalifa "At the Top" Entrance Ticket in advance to avoid long lineups,
+        especially if you are planning to visit on a weekend.
+    \nBack on the ground, wrapping around the Burj Khalifa, are the building\'s
+        beautifully designed gardens, with winding walkways. There are plenty
+        of water features including the Dubai Fountain, the world\'s tallest
+        performing fountain, modeled on the famous Fountains of Bellagio in Las Vegas.\n
+    Burj Khalifa
+    10/9/2018 20 Top­Rated Tourist Attractions in Dubai | PlanetWare\n
+    https://www.planetware.com/tourist­attractions­/dubai­uae­dub­dubai.htm 3/36\n
+    Location: Entry from Dubai Mall, Sheikh Zayed Road, Downtown\n
+    Official site: www.burjkhalifa.a</string>
+
+
+    <string name="dubai_mall">Dubai Mall</string>
+    <string name="dubai_mall_details">
+    Dubai Mall is the city\'s premier mall and provides entry to the Burj
+    Khalifa as well as the Dubai Aquarium. There is also an ice­skating
+    rink, gaming zone and cinema complex if you\'re looking for more
+    entertainment options. The shopping and eating is endless and there are
+    nearly always special events such as live music and fashion shows
+    within the mall. The most famous of these are the annual Dubai
+    Shopping Festival in January and February and the Dubai Summer
+    Surprises Festival in July and August.
+    Location: Doha Road, just off Sheikh Zayed Road
+    Official site: http://www.thedubaimall.com/</string>
+
+    <string name="sheikh_zayed_road">Sheikh Zayed Road</string>
+    <string name="sheikh_zayed_road_details">
+    Sheikh Zayed Road is the main thoroughfare running through Dubai\'s
+    modern downtown business district. This wide, eight­lane highway is
+    rimmed with towering glass, chrome, and steel high­rises along its entire
+    length. It\'s one of the best on­the­ground vantage points for Dubai\'s
+    famed skyscraper views. Main attractions are along, or just off, the strip
+    between the roundabout and the first intersection, and most of Dubai\'s
+    famous malls are located along the road\'s route. The Dubai World
+    Trade Tower has an observation deck on its top floor that offers visitors
+    panoramic views (a cheaper option than the Burj Khalifa), and the Gold
+    and Diamond Park (Sheikh Zayed Road) is a one­stop shop for jewelry
+    lovers, with 1 1 8 manufacturers and 30 retailers all under one roof.
+    Location: Downtown</string>
+
+    <string name="dubai_museum"> Dubai Museum</string>
+    <string name="dubai_museum_details">
+    Dubai\'s excellent museum is housed in the Al­Fahidi Fort, built in 1 787
+    to defend Dubai Creek. The fort\'s walls are built out of traditional coralblocks and held together with lime. The upper floor is supported by
+    Dubai Museum
+    10/9/2018 20 Top­Rated Tourist Attractions in Dubai | PlanetWare
+    https://www.planetware.com/tourist­attractions­/dubai­uae­dub­dubai.htm 5/36
+    wooden poles, and the ceiling is constructed from palm fronds, mud, and
+    plaster. In its history, the fort has served as a residence for the ruling
+    family, a seat of government, garrison, and prison. Restored in 1 971
+    (and again extensively in 1995), it is now the city\'s premier museum.
+    The entrance has a fascinating exhibition of old maps of the Emirates
+    and Dubai, showing the mammoth expansion that hit the region after the
+    oil boom.
+    The courtyard is home to several traditional boats and a palm­leaf
+    house with an Emirati wind­tower. The right­hand hall features
+    weaponry, and the left­hand hall showcases Emirati musical
+    instruments. Below the ground floor are display halls with exhibits and
+    dioramas covering various aspects of traditional Emirati life (including
+    pearl fishing and Bedouin desert life) as well as artifacts from the 3,000­
+    to 4,000­year­old graves at Al Qusais archaeological site.
+    Address: Al­Fahidi Street, Al­Fahidi</string>
+
+    <string name="bastakia_Old_dubai">Bastakia (Old Dubai)</string>
+    <string name="bastakia_Old_dubai_details">
+    The Bastakia Quarter (sometimes also called Al­Fahidi neighborhood)
+    was built in the late 1 9th century to be the home of wealthy Persian
+    merchants who dealt mainly in pearls and textiles, and were lured to
+    Dubai because of the tax­free trading and access to Dubai Creek.
+    Bastakia occupies the eastern portion of Bur Dubai along the creek, and
+    the coral and limestone buildings here, many with walls topped with
+    wind­towers, have been excellently preserved. Wind­towers provided
+    the homes here with an early form of air conditioning ­ the wind trapped
+    in the towers was funneled down into the houses. Persian merchants
+    likely transplanted this architectural element (common in Iranian coastal
+    houses) from their home country to the Gulf.
+    Lined with distinct Arabian architecture, the narrow lanes are highly
+    evocative of a bygone, and much slower, age in Dubai\'s history. Inside
+    the district, you\'ll find the Majlis Gallery, with its collection of traditional
+    Arab ceramics and furniture (housed in a wind­tower) and the XVA
+    Gallery, with a contemporary art collection (located in one of the historic
+    buildings)</string>
+
+    <string name="sheikh_saeed_al_maktoum_house">Sheikh Saeed Al­Maktoum House</string>
+    <string name="sheikh_saeed_al_maktoum_house_details">
+    Sheikh Saeed Al Maktoum was the Ruler of Dubai from 1921 to 1 958
+    and grandfather to the current ruler. His former residence has been
+    rebuilt and restored as a museum that is a fine example of Arabian
+    architecture. The original house was built in 1896 by Sheikh Saeed\'s
+    father, so he could observe shipping activity from the balconies. It was
+    demolished, but the current house was rebuilt next to the original site,
+    staying true to the original model by incorporating carved teak doors,
+    wooden lattice screens across the windows, and gypsum ventilation
+    screens with floral and geometric designs. Thirty rooms are built around
+    a central courtyard with wind­tower details on top.
+    Inside are the exhibits of the Dubai Museum of Historical
+    Photographs and Documents, with many wonderful old photographs
+    of Dubai from the period between 1 948 and 1 953. The marine wing of
+    Sheikh Saeed Al­Maktoum Housethe museum has photos of fishing, pearling, and boat building.
+    Throughout the building there are many letters, maps, coins, and stamps
+    on display showing the development of the Emirate. Nearby is the
+    Sheikh Obaid bin Thani House, restored with displays of traditional
+    interiors.</string>
+
+    <string name="dubai_creek">Dubai Creek</string>
+    <string name="dubai_creek_details">
+    Dubai Creek separates the city into two towns with Deira to the north
+    and Bur Dubai to the south. The creek has been an influential element
+    in the city\'s growth, first attracting settlers here to fish and pearl dive.
+    Small villages grew up alongside the creek as far back as 4,000 years
+    ago, while the modern era began in the 1830s when the Bani Yas tribe
+    settled in the area. The Dhow Wharfage is located along Dubai Creek\'s
+    bank, north of Al­Maktoum Bridge. Still used by small traders from
+    across the Gulf, some of the dhows anchored here are well over 100
+    years old. You can visit here, watching cargo being loaded and
+    unloaded on and off the dhows. Dhow workers often invite visitors onto
+    the vessels for a tour, where you can gain insight into the life of these
+    traditional sailors. Many of the dhows here travel onwards to Kuwait,
+    Iran, Oman, India, and down to Africa\'s horn. This tiny remnant of
+    Dubai\'s traditional economy is still a bustling and fascinating place to
+    wander around.
+    To travel across the creek, you can either take a trip on one of the many
+    dhows that have been restored as tourist cruise boats or take an abra
+    (small wooden ferry) between the ferry points on the creek\'s Bur Dubai
+    and Deira banks.</string>
+
+    <string name="jumeirah_mosque">Jumeirah Mosque</string>
+    <string name="jumeirah_mosque_details">
+    Jumeirah Mosque is considered by many to be the most beautiful of
+    Dubai\'s mosques. An exact copy of Cairo\'s Al­Azhar Mosque that is
+    eight times its size, the Jumeirah Mosque is a fine example of Islamic
+    architecture. This stone structure is built in the medieval Fatimid
+    tradition, with two minarets that display the subtle details in the
+    stonework. It is particularly attractive in the evening when lit with
+    floodlights. The Sheikh Mohammed Bin Rashid Centre for Cultural
+    Understanding (which also runs a program of tours, lectures, Arabic
+    classes, and cultural meals) organizes guided tours of the mosque
+    designed to try to foster a better understanding of the Muslim faith.
+    Tours begin at 10am daily, except Fridays.
+    Address: Jumeirah Road
+    Official site: www.cultures.ae</string>
+
+    <string name="deira">Deira</string>
+    <string name="deira_details">
+    Deira lies on the northern bank of Dubai Creek, and the winding streets
+    here unveil the melting pot of different nationalities that have come to
+    call Dubai home. On the shore, ancient dhows load and unload with
+    modern banks, hotels, and office buildings as a backdrop. For travelers,
+    Deira is most famous for its traditional souks (markets), which bustle
+    with shoppers at all times of the day. Deira Gold Souk is worldrenowned
+        as the largest gold bazaar in the world. The Deira Spice
+    Souk sells every imaginable spice, with stalls overflowing with bags of
+    frankincense, cumin, paprika, saffron, sumac, and thyme, as well as the
+    fragrant oud wood, rose water, and incense. The fish market provides a
+    much less touristy experience.
+    While in the district, culture lovers shouldn\'t miss two of Deira\'s finely
+    restored architectural gems. Heritage House was built in 1890 as the
+    home of a wealthy Iranian merchant and later became the home of
+    Sheik Ahmed bin Dalmouk (a famous pearl merchant in Dubai). Today,
+    it\'s a great chance to see the interior of a traditional family home. The
+    Al­Ahmadiya School, constructed in 1912, is the oldest school in Dubai
+    and is now a museum of public education.
+    Location: Dubai Creek</string>
+
+    <string name="heritage_and_diving_village">Heritage and Diving Village</string>
+    <string name="heritage_and_diving_village_details">
+    Dubai\'s architectural, cultural, and maritime heritage is showcased at the
+    Heritage and Diving Village, with displays related to pearl diving and
+    dhow building ­ two of old Dubai\'s historic economic mainstays. There
+    are also recreations of traditional Bedouin and coastal village life, with
+    Persian homes, a traditional coffeehouse, and a small souk where
+    potters and weavers practice their handicrafts at the stalls. Local music
+    and dance are performed from October to April, and visitors can get
+    advice from practitioners of traditional medicine.
+    Location: Shindagha, Bur Dubai</string>
+
+    <string name="dubai_aquarium">Dubai Aquarium</string>
+    <string name="dubai_aquarium_details">
+    One of the city\'s top tourist attractions, the Dubai Aquarium houses 140
+    species of sea life in the huge suspended tank on the ground floor of the
+    Dubai Mall. As well as free viewing from the mall, if you enter the
+    Underwater Zoo, you can walk through the aquarium tunnels.
+    Different activities help you get a closer look at the sea life. Glass
+    bottom boat tours (on top of the tank) are particularly popular. Cage
+    snorkeling and shark diving activities are also on offer.
+    Location: Dubai Mall, Sheikh Zayed Road
+    Official site: http://www.thedubaiaquarium.com
+
+   </string>
+
+    <string name="burj_al_arab">Burj al­Arab</string>
+    <string name="burj_al_arab_details">
+    The Burj Al­Arab is the world\'s tallest hotel, standing 321 meters high on
+    its own artificial island on the Dubai coastline. Designed to resemble a
+    billowing dhow sail, the exterior of the building is lit up by a
+    choreographed colored lighting show at night. Decadent in every way
+    possible, the Burj Al­Arab is one of the most expensive hotels in the
+    world, with the most luxurious suites costing more than $1 5,000 for one
+    night.
+    For those without unlimited credit, the way to experience the over­thetop
+        opulence is to go for dinner at the underwater Al­Mahara
+    restaurant, where floor­to­ceiling glass panels in the dining room walls
+    allow you to view sea life while you eat, or you can enjoy lunch at
+    California­style fusion restaurant Scape. For the ultimate panoramic
+    views over the city, book afternoon tea at the Skyview Bar (a minimum
+    spend is required) on the 27th floor.
+    Address: Jumeirah Road</string>
+
+    <string name="jumeirah_beach">Jumeirah Beach</string>
+    <string name="jumeirah_beach_details">
+    This strip of sandy white bliss is the number one beach destination for
+    Dubai visitors. Hotels are strung out all along its length, with this being
+    one of the most popular places to stay for tourists. The beach has
+    excellent facilities, with plenty of sun loungers, restaurants, and watersport
+        operators offering jet skiing.
+    While in the area, brush off the sand for an hour and visit the Majlis
+    Ghorfat Um Al­Sheef, just a short hop from the beach. Built in 1 955,
+    this was the summer residence of the late Sheikh Rashid bin Saeed alMaktoum.
+        The residence, made out of gypsum and coral­block, has
+    been restored and maintains much of the original beautiful decor, giving
+    you a better understanding of the opulent lifestyle of Dubai\'s rulers. The
+    Majlis Gardens feature a reproduction of an impressive Arab irrigation
+    system and many shady date palms.
+    Location: Jumeirah Beach Road</string>
+
+    <string name="mall_of_the_emirates">Mall of the Emirates</string>
+    <string name="mall_of_the_emirates_details">
+    Mall of the Emirates is one of the city\'s most famous malls with the
+    spectacular (and surreal) Ski Dubai facility inside. The indoor ski slope
+    is complete with chairlifts and a penguin enclosure, all at a continuous
+    temperature of ­4 degrees Celsius. There\'s also a cinema complex and
+    a family entertainment center with a whole host of rides aimed at both
+    the big and small. The shopping opportunities are boundless, as are the
+    eating options, offering every conceivable world cuisine.
+    Location: Sheikh Zayed Road
+    Official site: http://www.malloftheemirates.com
+</string>
+
+    <string name="img_worlds_of_adventure">IMG Worlds of Adventure</string>
+    <string name="img_worlds_of_adventure_details">
+    This theme park, near Global Village, is immersive entertainment at its
+    finest and has thrills and spills for both kids and big kids. With one zone
+    devoted entirely to Marvel\'s iconic characters; another to dinosaurthemed rides;
+        and a zone where the Cartoon Network takes the helm,
+    with gentler rides and activities for younger children, there\'s something
+    here for every age. Whether you want to help the Avengers battle Ultron,
+    scare yourself silly in a haunted house, or join Spider­Man as he swings
+    through the city, this is heaven for families looking for a fun­filled day
+    out.
+    Address: Sheikh Mohammed bin Zayed Road
+    Official site: www.imgworlds.com
+</string>
+
+    <string name="dubai_opera">Dubai Opera</string>
+    <string name="dubai_opera_details">
+    For nighttime attractions, look no further. Opened in mid­2016, Dubai\'s
+    classy new opera building is the centerpiece to the waterfront Opera
+    district in downtown Dubai and set to become the city\'s major cultural
+    hub and main entertainment venue. The Dubai Opera hosts a yearround program
+        of famous musical theater productions, concerts by
+    world­class musicians, opera, ballet, and classical music, as well as
+    smaller productions, comedy nights, and concerts. The 2000­seat
+    theater building itself is an astonishing piece of architectural mastery
+    and one of Dubai\'s new landmarks, with its highly­contemporary glass
+    and steel walls jutting out over the waterfront, built to resemble the
+    curves of a traditional dhow.
+    Address: Sheikh Mohammed bin Rashid Road
+    Official site: www.dubaiopera.com</string>
+
+    <string name="kite_beach">kite Beach</string>
+    <string name="kite_beach_details">
+    This long stretch of white­sand beach, south of Jumeirah beach, isn\'t
+    just a top destination for sunbathers looking to lap up a lazy day of
+    swimming and soaking up the rays on the sand. Kite Beach is renowned
+    as Dubai\'s premier destination for kite surfers and is home to an array of
+    water sports operators. This is where you come to get out on the water
+    kite surfing or try your hand at stand up paddleboarding, with equipment
+    hire and lessons all easily arranged on the beach.
+    Address: Off Jumeirah Road</string>
+
+    <string name="alserkal_art_district">Alserkal Art District</string>
+    <string name="alserkal_art_district_details">
+    Part of the old Al Quoz industrial district centered on Alserkal
+        Avenue is going through a regeneration to become Dubai\'s main arts
+        hub and is already home to some of the city\'s most important
+        contemporary art galleries. Established gallery names such as the
+    Green Art Gallery, The Third Line, and the Ayyam Gallery have made
+    their home here, while a host of smaller gallery start­ups have also
+    moved in. The district\'s program of rotating collections focuses both on
+    the work of major artists as well as highlighting new Middle Eastern
+    talent. This emerging district is also the place to come for fashion and
+    accessory boutiques by local designers, pop­up restaurants, and café
+    life, and it showcases the energetic and youthful buzz of a city, which is
+    usually more noted for its corporate face.
+    Address: Alserkal Avenue, Al Quoz Industrial district
+    Official site: www.alserkalavenue.ae</string>
+
+    <string name="dubai_parks_and_resorts">Dubai Parks and Resorts</string>
+    <string name="dubai_parks_and_resorts_details">
+    At Dubai Parks and Resorts, your entertainment needs are all rolled
+    together into one location. The only problem here is choosing what you
+    want to do. This mammoth project incorporates a swag of world­class
+    theme parks providing something for everyone, whatever your age.
+    Motiongate takes its theme from Hollywood productions with rides
+    based around movie blockbusters, Bollywood Parks brings the world of
+    India\'s famous movie industry alive on its rides, and Legoland Dubai
+    provides younger visitors with a fun­packed day out on its interactive
+    rides. Legoland Waterpark is planned for the future. The district\'s
+    attached Riverland Dubai dining hub means that there\'s no need to
+    leave after you\'ve exhausted yourself with theme park pursuits, as
+    there\'s plenty of evening entertainment here as well.
+    Address: Sheikh Zayed Road, Jebel Ali
+    Official site: www.dubaiparksandresorts.com</string>
+
+    <string name="aquaventure_waterpark">Aquaventure Waterpark</string>
+    <string name="aquaventure_waterpark_details">
+    This waterpark, based at Atlantis, The Palm on the Palm Jumeirah Dubai\'s
+        famous man­made island development ­ is a great place to cool
+    off after a few days of hectic shopping and sightseeing. The water slide
+    action here is excellent and world­class, with the Aquaconda, the world\'s
+    longest water slide; a nine­story­tall slide, aptly named the Leap of Faith;
+    and water coaster rides. There\'s also underwater safaris using seatrek
+    helmets; a dedicated water play area for smaller children with slides;
+    and for when all your energy has been used up, a 700­meter sweep of
+    white­sand beach to chill out on.
+    Address: Crescent Road, Palm Jumeirah
+    Official site: www.atlantisthepalm.com</string>
+
+    <string name="tips_and_tours">Tips and Tours: How to Make the Most of Your Visit to
+    Dubai</string>
+    <string name="tips_and_tours_details">
+    See the Sights: One of the easiest and most convenient ways to
+    see the city is on a Dubai City Half Day Sightseeing Tour. This
+    guided tour takes you by coach to the main attractions, including
+    Jumeirah Mosque, Bastakiya (the old quarter), the Spice Souq,
+    Deira Gold Souq, and more. For a more in­depth tour that
+    combines the city and desert, try the two­day Super Saver: City
+    Sightseeing Tour and Desert Safari. Spend the first afternoon
+    seeing the sights of Dubai and the second afternoon and evening
+    on a desert safari, including a camel ride, sandboarding lessons, a
+    sunset barbecue, and a belly dancing show.
+    Take a Flight: For incredible views over the city and surroundings,
+    take a 15­minute or 25­minute Helicopter Flight over Dubai. There
+    is no better way to see the famous Palm Jumeirah or the manmade
+    archipelago created in the shape of a world map, known as The
+    World, than from the air.</string>
+
+
+    <string name="where_to_stay">Where to Stay in Dubai for Sightseeing</string>
+    <string name="where_to_stay_details">
+    If you want easy access to Dubai\'s top tourist attractions, the best place
+    to stay is Downtown Dubai. Prime attractions nearby include the
+    landmark Burj Khalifa, the world\'s tallest building; Dubai Mall; and the
+    Dubai Fountain. You\'ll also find plenty of shops, restaurants, and art
+    galleries in this vibrant precinct. If you\'re seeking some sun, sand, and
+    sea, Jumeirah Beach lies about 15 minutes by car from Burj Khalifa and
+    is also a popular base for tourists. Below are some highly­rated hotels
+    in convenient and central locations for touring the city:
+    Luxury Hotels: Blending luxury with a handy location, The Palace
+    Downtown Dubai lies within walking distance of the Burj Khalifa,
+    Dubai Mall, the Dubai Fountain, and the Souk Al Bahar. Also in
+    Downtown Dubai, the Armani Hotel resides in the Burj Khalifa itself
+    and ensconces guests in sophisticated elegance. For those
+    seeking luxury on the water, the exquisite sail­shaped Burj Al Arab
+    Jumeirah is a Dubai icon and one of the most luxurious hotels in
+    the world.
+    Mid­Range Hotels: A 10­minute walk from the Burj Khalifa and
+    Dubai Mall, Ramada Downtown Dubai is a popular mid­range
+    option, as is the boutique Manzil Downtown Dubai with a modern
+    Arabesque design. About a 12­minute drive from the Burj Khalifa,
+    the Sofitel Dubai on Jumeirah Beach sits on Dubai\'s most famous
+    promenade, "The Walk," and lies just across from "The Beach," a
+    waterfront leisure precinct packed with shops and restaurants.
+    Budget Hotels: If you\'re watching your wallet, a popular budget
+    hotel option is Ibis Mall of the Emirates, next door to its namesake
+    mall with Ski Dubai. It\'s also close to a metro station and about 13
+    minutes by car to Burj Khalifa. Also near a metro station, the Ibis Al
+    Rigga is closer to the international airport. If you\'re seeking a more
+    historic feel, the XVA Art Hotel offers excellent value in the heart of
+    Bastakia (Old Dubai).
+</string>
+
+    <!--<string name=""></string>-->
+    <!--<string name="_details"></string>-->
+
+    <!--<string name=""></string>-->
+    <!--<string name="_details"></string>-->
+
+
+    <!--<string name=""></string>-->
+    <!--<string name="_details"></string>-->
+
+    <!--<string name=""></string>-->
+    <!--<string name="_details"></string>-->
+
+    <!--<string name=""></string>-->
+    <!--<string name="_details"></string>-->
+
+
+</resources>

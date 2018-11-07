@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="@dimen/eight_dp">
+
+    <ImageView
+        android:id="@+id/history_image"
+        android:layout_width="@dimen/image_size_small"
+        android:layout_height="@dimen/image_size_small"
+        android:background="@color/colorMargin"
+        android:padding="2dp"
+        android:scaleType="centerCrop" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/eight_dp">
+
+        <TextView
+            android:id="@+id/history_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?attr/textAppearanceListItem"
+            android:layout_gravity="center_vertical"
+            style="@style/HeadingTextAppearance"
+            android:textSize="@dimen/text_name"
+            tools:text="@string/restaurant_name" />
+
+
+        <TextView
+            android:id="@+id/photo_credit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/BodyTextAppearance"
+            android:alpha="0.5"
+            android:textSize="@dimen/text_detail"
+            tools:text="@string/restaurant_details" />
+    </LinearLayout>
+
+</LinearLayout>

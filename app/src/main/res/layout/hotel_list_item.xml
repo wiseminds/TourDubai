@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding ="@dimen/eight_dp"
+    android:baselineAligned="false">
+
+    <ImageView
+        android:id="@+id/hotel_image"
+        android:layout_width="@dimen/image_size_large"
+        android:layout_height="@dimen/image_size_large_height"
+        android:background="@color/colorMargin"
+        android:padding="2dp"
+        android:scaleType="centerCrop" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/eight_dp">
+
+
+        <TextView
+            android:id="@+id/hotel_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?attr/textAppearanceListItem"
+            style="@style/HeadingTextAppearance"
+            android:textSize="@dimen/text_name"
+            tools:text="@string/restaurant_name" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:alpha="0.7"
+            style="@style/BodyTextAppearance"
+            android:text="@string/rating"/>
+        <TextView
+            android:id="@+id/hotel_ratings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/BodyTextAppearance"
+            android:textSize="@dimen/text_rating"
+            tools:text="@string/restaurant_rating" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:alpha="0.7"
+            style="@style/BodyTextAppearance"
+            android:text="@string/about_us"/>
+        <TextView
+            android:id="@+id/hotel_details"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/BodyTextAppearance"
+            android:textSize="@dimen/text_detail"
+            tools:text="@string/restaurant_details" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:alpha="0.7"
+            style="@style/BodyTextAppearance"
+            android:text="@string/facilities"/>
+        <TextView
+            android:id="@+id/hotel_facilities"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/BodyTextAppearance"
+            android:textSize="@dimen/text_detail"
+            tools:text="@string/restaurant_details" />
+    </LinearLayout>
+
+</LinearLayout>
